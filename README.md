@@ -7,3 +7,6 @@ Direct communication works for solo mini-games, but multiplayer tournaments need
 
 This repository delivers the Python glue that links participant code with the game(s).
 
+
+  
+See [MQTT on PI](https://github.com/EloiStree/HelloPicoGodotMQTT)  
